@@ -1,7 +1,7 @@
 # 網路程式設計-期末專題
 # 我們先來看看遊戲的遊玩體驗吧 ! 
 
-![image](https://github.com/tim-weii/JAVA-socket-game/assets/66638719/2e5a6d94-54fc-4653-a2ca-47e1ab99374d)
+![image](https://github.com/tim-weii/JAVA-socket-game/assets/66638719/2bed3dea-d903-4975-b1a0-7408cca4dc89)
 
 使用**上下左右**鍵來控制，若同時按上跟右鍵，就會往右上方移動
 
