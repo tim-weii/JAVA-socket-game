@@ -6,10 +6,7 @@ https://github.com/tim-weii/JAVA-socket-game/assets/66638719/3a1d9d41-fd08-4c77-
 
 
 使用**上下左右**鍵來控制，若同時按上跟右鍵，就會往右上方移動
-
-![image](https://github.com/tim-weii/JAVA-socket-/assets/66638719/0b6a94c4-e7aa-4b44-9193-822005728070)
-
-
+碰到炸彈會扣20滴血，所以碰到5次就出局 ! 
 
 # 炸彈
 ![image](https://github.com/tim-weii/JAVA-socket-/assets/66638719/c71c86df-c535-425e-9299-21b39fa93124)
