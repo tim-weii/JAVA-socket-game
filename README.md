@@ -1,5 +1,9 @@
 #  Multiplayer Online Bomb Game
 
+[![Java](https://img.shields.io/badge/Java-8%2B-red?logo=oracle)](https://www.oracle.com/java/)
+![Sockets](https://img.shields.io/badge/Networking-Java%20Sockets-informational)
+![Realtime](https://img.shields.io/badge/Realtime-Sync%20&%20Collision-brightgreen)
+
 https://github.com/tim-weii/JAVA-socket-game/assets/66638719/3a1d9d41-fd08-4c77-9da3-6a4bb8f17c68.mp4  
 
 ---
