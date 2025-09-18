@@ -26,8 +26,6 @@ Despite the difficulties, the system successfully supports **up to 10 players** 
 
 ---
 
-## 🖼 Screenshots  
-
 ### Bombs  
 <p align="center">
   <img src="https://github.com/tim-weii/JAVA-socket-/assets/66638719/c71c86df-c535-425e-9299-21b39fa93124" width="300"/>
@@ -57,7 +55,7 @@ Despite the difficulties, the system successfully supports **up to 10 players** 
 
 ---
 
-## ⚙ Tech Stack  
+##  Tech Stack  
 - **Language:** Java  
 - **Networking:** Socket (TCP)  
 - **Concurrency:** Multi-threading for client-server communication  
